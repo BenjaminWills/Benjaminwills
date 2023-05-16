@@ -8,7 +8,7 @@
 </a> 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-benjamin%20wills-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-wills-b22887220/)](https://www.linkedin.com/in/benjamin-wills-b22887220/) [![Gmail Badge](https://img.shields.io/badge/-benjaminwills047@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:benjaminwills047@gmail.com?subject=Hello!&body=Hey%20Ben%2C%0D%0A%0D%0AI'm%20just%20emailing%20to%20ask...)](mailto:benjaminwills047@gmail.com?subject=Hello!&body=Hey%20Ben%2C%0D%0A%0D%0AI'm%20just%20emailing%20to%20ask...)
+[![Linkedin Badge](https://img.shields.io/badge/-Benjamin%20Wills-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-wills-b22887220/)](https://www.linkedin.com/in/benjamin-wills-b22887220/) [![Gmail Badge](https://img.shields.io/badge/-benjaminwills047@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:benjaminwills047@gmail.com?subject=Hello!&body=Hey%20Ben%2C%0D%0A%0D%0AI'm%20just%20emailing%20to%20ask...)](mailto:benjaminwills047@gmail.com?subject=Hello!&body=Hey%20Ben%2C%0D%0A%0D%0AI'm%20just%20emailing%20to%20ask...)
 
 # About me 
 
