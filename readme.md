@@ -14,6 +14,8 @@
 
 My name is Ben Wills, I am a data engineer based in London. I have a degree in mathematics and enjoy coding! Any feedback on my code would be really valuable.
 
+I have worked with AWS, Azure and GCP to create end to end #robust data pipelines, these contained data quality checks along the whole way along with notification systems incase anything went wrong. I also have experience in Terraform provisioning infrastructure in the context of DevOps.
+
 # Technologies & Tools
 
 ###### Frontend
